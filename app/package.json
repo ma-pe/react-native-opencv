@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "react": "^15.1.0",
-    "react-native": "^0.27.2"
+    "react-native": "^0.27.2",
+    "react-native-drawer-layout": "^1.0.0",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-wkwebview": "git+https://github.com/CRAlpha/react-native-wkwebview.git"
   }
 }
