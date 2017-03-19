@@ -1,0 +1,3 @@
+rootProject.name = 'RNOpencvExample'
+
+include ':app'
