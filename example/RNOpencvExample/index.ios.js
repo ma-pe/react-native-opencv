@@ -9,10 +9,16 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  NativeModules
 } from 'react-native';
+const { RNOpencv } = NativeModules;
 
 export default class RNOpencvExample extends Component {
+  componentDidMount() {
+    RNOpencv.helloWorld('Hello OpenCV!');
+  }
+
   render() {
     return (
       <View style={styles.container}>
