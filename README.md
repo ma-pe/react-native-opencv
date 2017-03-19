@@ -1,6 +1,8 @@
 
 # react-native-opencv
 
+React Native Bindings for openCV. Currently being developed :)
+
 ## Getting started
 
 `$ npm install react-native-opencv --save`
