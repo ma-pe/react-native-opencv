@@ -8,7 +8,8 @@
 	},
 	"dependencies": {
 		"react": "15.4.2",
-		"react-native": "0.42.3"
+		"react-native": "0.42.3",
+		"react-native-opencv": "../../"
 	},
 	"devDependencies": {
 		"babel-jest": "19.0.0",
