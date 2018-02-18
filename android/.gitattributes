@@ -1,1 +1,2 @@
 android/app/src/main/jniLibs/* filter=lfs diff=lfs merge=lfs -text
+android/app/src/main/jniLibs/*/* filter=lfs diff=lfs merge=lfs -text
